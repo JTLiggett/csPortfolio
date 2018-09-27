@@ -2,7 +2,7 @@
 
 * WebPage [here]()
 * Lightning [here](https://jtliggett.github.io/lightning2/)
-* Lightning JS [here]()
+* Lightning JS [here](https://jtliggett.github.io/lightning2/JSLightning/index.html)
 * Dice [here]()
 
 ```Java
