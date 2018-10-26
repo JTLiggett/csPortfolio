@@ -5,7 +5,7 @@
 * Lightning JS [here](https://jtliggett.github.io/lightning2/JSLightning/index.html)
 * Dice [here](https://jtliggett.github.io/dice3)
 * College Presentation [here](https://docs.google.com/presentation/d/1RAuLkCat4LKQMORuadPAUDv4IxcLY0q52Bxj36_9Z_8/edit?usp=sharing)
-* Chemotaxis [here](https://jtliggett.github.io/chemotaxis)
+* Chemotaxis [here](https://jtliggett.github.io/chemotaxis4)
 
 
 ```Java
