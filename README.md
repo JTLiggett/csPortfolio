@@ -4,7 +4,7 @@
 * Lightning [here](https://jtliggett.github.io/lightning2/)
 * Lightning JS [here](https://jtliggett.github.io/lightning2/JSLightning/index.html)
 * Dice [here](https://jtliggett.github.io/dice3)
-* College Presentation [here]("https://docs.google.com/presentation/d/e/2PACX-1vSKFChMDzyCOQGGyqc4GCK6H5u60xKVvyy7hOqBLWFDFsl7FOZPA_HYDRsApVUgh8Z1bW7cohidovDv/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true")
+* College Presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vSKFChMDzyCOQGGyqc4GCK6H5u60xKVvyy7hOqBLWFDFsl7FOZPA_HYDRsApVUgh8Z1bW7cohidovDv/embed?start=false&loop=false&delayms=60000 frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true")
 * Chemotaxis [here](https://jtliggett.github.io/chemotaxis4)
 * Starfield [here](https://jtliggett.github.io/starfield5)
 
