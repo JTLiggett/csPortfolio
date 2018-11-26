@@ -8,6 +8,15 @@
 * Chemotaxis [here](https://jtliggett.github.io/chemotaxis4)
 * Starfield [here](https://jtliggett.github.io/starfield5)
 
+Reflect on all your portfolio projects.  
+       Overall, I'm very happy with my projects. They are the first coding projects I've made, and I think they're pretty good. However, I wish I could go back and make some of them have more feature when I ran out of time.
+
+What is one or two things that are a source of pride in your programming development?  
+       I'm really proud of my creativity on my projects. I typically choose not to be creative unless I absolutely have to, but all these projects were funny and entertaining. 
+       
+Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.
+      Here is some of my dice code, which is my favorite object
+
 
 ```Java
 void mouseReleased() {
