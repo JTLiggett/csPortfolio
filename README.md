@@ -15,9 +15,21 @@ What is one or two things that are a source of pride in your programming develop
        I'm really proud of my creativity on my projects. I typically choose not to be creative unless I absolutely have to, but all these projects were funny and entertaining. 
        
 Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.
-      Here is some of my dice code, which is my favorite object
-
-
+      Here is some of my dice code, which is my favorite project that I made:
+      else if (boolToInt(nines == 2) + boolToInt(tens == 2) + boolToInt(jacks == 2) + boolToInt(queens == 2) + boolToInt(kings == 2) + boolToInt(aces == 2) == 2 )
+    {
+      textSize(30);
+      fill(0);
+      text("Two Pair", 50, 90);
+    } 
+    This was for a two pair combo where I had to create a new method booltoInt in order for the code to find the two pairs. I learned that sometimes you have to have methods within methods to make them run most efficiently. 
+    
+Identify the most significant hurdle you encountered last trimester. Write about what it was and how it was resolved.
+       For a long time, I couldn't figure out how to get the stafield code working. There were little details I couldn't figure out how to fix. This was the first time I had to have many methods working together. I fixed it using a lot of trial and error and messing with code.
+    Describe the incremental and iterative development process of your included code, focusing on two distinct points in the development process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the deveis, development described was collaborative or independent. At least one of these points must refer to independent program development.
+    
+This code below was for my lightning project. It took me a while to figure out how to add thunder to my code. I had to go into processing's files and add the sound maker. Then, I went online and found a thunder sound for my project. Afte this, implementing into my project took a while to make it work on github. Eventually, the thunder was added using help from Dr. R, but mostly on my own.
+    
 ```Java
 void mouseReleased() {
   Yend = (int) (Math.random()*700 ) +500;
