@@ -21,13 +21,15 @@ What is one or two things that are a source of pride in your programming develop
        
 Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.
       Here is some of my dice code, which is my favorite project that I made:
+      
       else if (boolToInt(nines == 2) + boolToInt(tens == 2) + boolToInt(jacks == 2) + boolToInt(queens == 2) + boolToInt(kings == 2) + boolToInt(aces == 2) == 2 )
     {
       textSize(30);
       fill(0);
       text("Two Pair", 50, 90);
     } 
-    This was for a two pair combo where I had to create a new method booltoInt in order for the code to find the two pairs. I learned that sometimes you have to have methods within methods to make them run most efficiently. 
+    
+  This was for a two pair combo where I had to create a new method booltoInt in order for the code to find the two pairs. I learned that sometimes you have to have methods within methods to make them run most efficiently. 
     
 Identify the most significant hurdle you encountered last trimester. Write about what it was and how it was resolved.
        For a long time, I couldn't figure out how to get the stafield code working. There were little details I couldn't figure out how to fix. This was the first time I had to have many methods working together. I fixed it using a lot of trial and error and messing with code.
