@@ -33,6 +33,9 @@ Identify the most significant hurdle you encountered last trimester. Write about
     Describe the incremental and iterative development process of your included code, focusing on two distinct points in the development process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the deveis, development described was collaborative or independent. At least one of these points must refer to independent program development.
     
 This code below was for my lightning project. It took me a while to figure out how to add thunder to my code. I had to go into processing's files and add the sound maker. Then, I went online and found a thunder sound for my project. Afte this, implementing into my project took a while to make it work on github. Eventually, the thunder was added using help from Dr. R, but mostly on my own.
+
+Another task early on was figuring out how to add images, here's one:
+![alt text](https://github.com/JTLiggett/chemotaxis4/blob/gh-pages/Bee.png "Logo Title Text 1")
     
 ```Java
 void mouseReleased() {
