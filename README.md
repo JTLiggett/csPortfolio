@@ -37,6 +37,7 @@ This code below was for my lightning project. It took me a while to figure out h
 
 Another task early on was figuring out how to add images, here's one:
 ![alt text](https://github.com/JTLiggett/chemotaxis4/blob/gh-pages/Bee.png "Logo Title Text 1")
+
 I ended up adding these to all of my projects. I think it made them unique and more fun to use.
     
 ```Java
