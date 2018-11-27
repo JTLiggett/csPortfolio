@@ -1,14 +1,5 @@
 # csPortfolio
 
-* WebPage [here](https://jtliggett.github.io/TestPage/JakeDogPage.html)
-* Lightning [here](https://jtliggett.github.io/lightning2/)
-* Lightning JS [here](https://jtliggett.github.io/lightning2/JSLightning/index.html)
-* Dice [here](https://jtliggett.github.io/dice3)
-* College Presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vSKFChMDzyCOQGGyqc4GCK6H5u60xKVvyy7hOqBLWFDFsl7FOZPA_HYDRsApVUgh8Z1bW7cohidovDv/pub?start=false&loop=false&delayms=60000)
-* Chemotaxis [here](https://jtliggett.github.io/chemotaxis4)
-* Starfield [here](https://jtliggett.github.io/starfield5)
-
-
 | Project       | Link           | Difficulty  |
 | ------------- |:--------------:| ------------:|
 | WebPage      | [here](https://jtliggett.github.io/TestPage/JakeDogPage.html) | 5 |
