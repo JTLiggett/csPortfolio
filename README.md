@@ -9,8 +9,8 @@
 * Starfield [here](https://jtliggett.github.io/starfield5)
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Project       | Link           | Difficulty  |
+| ------------- |:--------------:| ------------:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
