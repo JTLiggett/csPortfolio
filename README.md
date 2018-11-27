@@ -7,10 +7,10 @@
 * College Presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vSKFChMDzyCOQGGyqc4GCK6H5u60xKVvyy7hOqBLWFDFsl7FOZPA_HYDRsApVUgh8Z1bW7cohidovDv/pub?start=false&loop=false&delayms=60000)
 * Chemotaxis [here](https://jtliggett.github.io/chemotaxis4)
 * Starfield [here](https://jtliggett.github.io/starfield5)
-| Project        | Link         | Difficulty  |
-| ------------- |:-------------:| -----------:|
-| col 3 is      | right-aligned | $1600       |
-| col 2 is      | centered      |   $12       |
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
 Reflect on all your portfolio projects.  
