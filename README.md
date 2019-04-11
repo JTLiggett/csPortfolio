@@ -5,7 +5,7 @@
 | WebPage      | [here](https://jtliggett.github.io/TestPage/JakeDogPage.html) | 5 | This is a page of awesome people with one thing in common |
 | Lightning     | [here](https://jtliggett.github.io/lightning2/)     |   8 | A stormy day outside Dr. R's room. |
 | Lightning JS | [here](https://jtliggett.github.io/lightning2/JSLightning/index.html)    |    6 | Another stormy day, this time in a different programming language.
-| Dice | [here](https://jtliggett.github.io/dice3)     |    3| Poker dice, see if you can get five of a kind. Creator still hasn't gotten one. |
+| Dice | [here](https://jtliggett.github.io/dice3)     |    3| Poker dice, see if you can get a five of a kind. Creator still hasn't gotten one. |
 | College Presentation | [here](https://docs.google.com/presentation/d/e/2PACX-1vSKFChMDzyCOQGGyqc4GCK6H5u60xKVvyy7hOqBLWFDFsl7FOZPA_HYDRsApVUgh8Z1bW7cohidovDv/pub?start=false&loop=false&delayms=60000)      |    2 | Creator is going to this university next year, albeit not studying computer science. |
 | Chemotaxis | [here](https://jtliggett.github.io/chemotaxis4)      |    7 | Not all are devastated by the endagerment of our favorite honey makers. See if you can be the Creator's high score of 30.  |
 | Starfield | [here](https://jtliggett.github.io/starfield5)     |    9 | Why does fast food have to taste so good...  |
